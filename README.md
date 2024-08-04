@@ -1,7 +1,5 @@
 <div align="center">
-    <a href="" target="_blank">
       <img src="preview.webp" alt="Project Banner">
-    </a>
   <h3 align="center">3D Animations - Three Fiber</h3>
 </div>
 
