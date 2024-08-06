@@ -1,5 +1,5 @@
 <div align="center">
-      <img src="preview.webp" alt="Project Banner">
+      <img src="design/preview.png" alt="Project Banner">
   <h3 align="center">3D Animations - Three Fiber</h3>
 </div>
 
@@ -18,19 +18,20 @@
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
+- [**Three.js**](https://threejs.org/docs/) is a JavaScript library that enables the creation and display of 3D computer graphics in web browsers using WebGL. It provides extensive capabilities for rendering 3D scenes, including support for geometries, materials, lighting, and animations.
 
-- **Next.js** is a React framework known for its server-side rendering (SSR) and static site generation (SSG) capabilities, enhancing performance and SEO for web applications. It offers features like automatic code splitting, API routes for server-side logic, and a plugin system for extensibility.
+- [**Three Fiber**](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) is a React renderer for Three.js, enabling the use of Three.js within React applications. It provides a declarative API that allows developers to create and manage 3D scenes using React components, making it easier to integrate 3D graphics into React applications. React Three Fiber simplifies the process of handling Three.js objects, lights, and animations, while leveraging React’s component-based architecture for more manageable and reusable 3D code.
 
-- **TypeScript** is a statically typed superset of JavaScript that allows for early detection of errors and more robust, maintainable code. TypeScript's type system helps developers catch mistakes early during the development process, ensuring a more stable and reliable application.
+- [**Three Drei**](https://github.com/pmndrs/drei) is a collection of useful helpers and abstractions for React Three Fiber. It offers a set of ready-to-use components and hooks for common Three.js tasks, such as managing lights, controls, and geometries. By providing higher-level abstractions, React Three Drei streamlines the process of creating complex 3D scenes and interactions, enhancing productivity and reducing boilerplate code in React Three Fiber projects.
 
-- **Tailwind** is a utility-first CSS framework that speeds up UI development by providing a set of pre-built utility classes. It allows developers to quickly build custom designs without writing traditional CSS, promoting rapid prototyping and design consistency.
+- [**React**](https://react.dev/reference/react) is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
 
-- **Three.js** is a JavaScript library that enables the creation and display of 3D computer graphics in web browsers using WebGL. It provides extensive capabilities for rendering 3D scenes, including support for geometries, materials, lighting, and animations.
+- [**Next.js**](https://nextjs.org/docs) is a React framework known for its server-side rendering (SSR) and static site generation (SSG) capabilities, enhancing performance and SEO for web applications. It offers features like automatic code splitting, API routes for server-side logic, and a plugin system for extensibility.
 
-- **Three Fiber** is a React renderer for Three.js, enabling the use of Three.js within React applications. It provides a declarative API that allows developers to create and manage 3D scenes using React components, making it easier to integrate 3D graphics into React applications. React Three Fiber simplifies the process of handling Three.js objects, lights, and animations, while leveraging React’s component-based architecture for more manageable and reusable 3D code.
+- [**TypeScript**](https://www.typescriptlang.org/docs/) is a statically typed superset of JavaScript that allows for early detection of errors and more robust, maintainable code. TypeScript's type system helps developers catch mistakes early during the development process, ensuring a more stable and reliable application.
 
-- **Three Drei** is a collection of useful helpers and abstractions for React Three Fiber. It offers a set of ready-to-use components and hooks for common Three.js tasks, such as managing lights, controls, and geometries. By providing higher-level abstractions, React Three Drei streamlines the process of creating complex 3D scenes and interactions, enhancing productivity and reducing boilerplate code in React Three Fiber projects.
+- [**Tailwind**](https://v2.tailwindcss.com/docs) is a utility-first CSS framework that speeds up UI development by providing a set of pre-built utility classes. It allows developers to quickly build custom designs without writing traditional CSS, promoting rapid prototyping and design consistency.
+
 
 
 ## <br /> <a name="quick-start">🚀 Quick Start</a>
